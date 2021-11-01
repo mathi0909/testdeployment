@@ -1,5 +1,5 @@
 site_name: Documentation
-site_url: https://karthick-somasundaresan.github.io/testdeployment/
+site_url: https://mathi0909.github.io/testdeployment/
 nav:
     - 'Interface doc': 
         - 'AVSControllerAPI': 'AVSControllerAPI.md'
