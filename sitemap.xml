@@ -1,442 +1,442 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mathi0909.github.io/Documentation/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/AVSControllerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/AVSControllerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/AmazonPrimeAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/AmazonPrimeAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/ApplicationAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/ApplicationAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/BluetoothControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/BluetoothControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/BluetoothControlPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/BluetoothControlPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/BluetoothRemoteControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/BluetoothRemoteControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/BluetoothRemoteControlPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/BluetoothRemoteControlPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/BrowserAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/BrowserAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/BrowserResourcesAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/BrowserResourcesAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/BrowserSecurityAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/BrowserSecurityAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/ButlerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/ButlerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/CobaltAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/CobaltAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/CobaltPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/CobaltPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/CommanderPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/CommanderPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/CompositorAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/CompositorAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/CompositorPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/CompositorPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/ConnectionPropertiesAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/ConnectionPropertiesAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/CustomerCareOperationsAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/CustomerCareOperationsAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DHCPServerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DHCPServerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DHCPServerPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DHCPServerPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DIALServerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DIALServerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DIALServerPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DIALServerPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DTVAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DTVAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DTVPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DTVPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DeviceIdentificationAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DeviceIdentificationAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DeviceInfoAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DeviceInfoAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DictionaryPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DictionaryPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DisplayInfoAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DisplayInfoAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DisplayInfoPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DisplayInfoPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/DisplayPropertiesAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/DisplayPropertiesAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/FileTransferPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/FileTransferPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/FirmwareControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/FirmwareControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/FirmwareControlPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/FirmwareControlPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/GraphicsPropertiesAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/GraphicsPropertiesAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/HDRPropertiesAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/HDRPropertiesAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/IOConnectorAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/IOConnectorAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/IOConnectorPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/IOConnectorPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/IOControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/IOControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/InputSwitchAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/InputSwitchAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/LanguageTagAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/LanguageTagAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/LocationSyncAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/LocationSyncAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/MessengerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/MessengerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/MonitorAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/MonitorAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/NetflixAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/NetflixAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/NetworkControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/NetworkControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/NetworkControlPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/NetworkControlPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/NetworkToolsAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/NetworkToolsAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/OpenCDMiAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/OpenCDMiAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/OutputAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/OutputAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PackagerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PackagerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PerformanceMonitorAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PerformanceMonitorAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PerformanceMonitorPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PerformanceMonitorPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PlayerInfoAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PlayerInfoAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PlayerInfoPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PlayerInfoPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PlayerPropertiesAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PlayerPropertiesAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PowerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PowerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/PowerPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/PowerPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/ProcessContainers/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/ProcessContainers/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/ProcessMonitorPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/ProcessMonitorPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/ProvisioningAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/ProvisioningAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/RemoteControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/RemoteControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/RemoteControlPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/RemoteControlPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/ResourceMonitorPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/ResourceMonitorPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SecureShellServerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SecureShellServerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SecurityAgentAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SecurityAgentAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SparkAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SparkAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SparkPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SparkPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/StateControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/StateControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/StreamerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/StreamerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/StreamerPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/StreamerPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SubsystemControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SubsystemControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SyslogExportPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SyslogExportPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SystemCommandsAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SystemCommandsAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/SystemCommandsPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/SystemCommandsPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/TestControllerAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/TestControllerAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/TestUtilityAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/TestUtilityAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/TestUtilityPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/TestUtilityPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/TimeSyncAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/TimeSyncAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/TimeSyncPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/TimeSyncPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/TraceControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/TraceControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/VolumeControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/VolumeControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/VolumeControlPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/VolumeControlPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/WebBrowserAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/WebBrowserAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/WebKitBrowserAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/WebKitBrowserAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/WebPAPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/WebPAPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/WiFiControlAPI/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/WiFiControlAPI/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mathi0909.github.io/Documentation/WifiControlPlugin/</loc>
+         <loc>https://mathi0909.github.io/testdeployment/WifiControlPlugin/</loc>
          <lastmod>2021-11-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
