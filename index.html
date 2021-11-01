@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="None">
+    
+    <link rel="canonical" href="https://karthick-somasundaresan.github.io/Documentation/">
+    <link rel="shortcut icon" href="./img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Documentation</title>
+    <link href="./css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="./css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="./css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="./js/jquery-3.2.1.min.js"></script>
+    <script src="./js/bootstrap-3.3.7.min.js"></script>
+    <script src="./js/highlight.pack.js"></script>
+    
+      <script src="./js/elasticlunr.min.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '.';
+      var is_top_frame = (window === window.parent);
+        
+        var pageToc = [
+          {title: "Welcome to Documentation.", url: "#_top", children: [
+              {title: "Interface documentation", url: "#interface-documentation" },
+              {title: "WPEFramework-plugins documentation", url: "#wpeframework-plugins-documentation" },
+          ]},
+        ];
+
+    </script>
+    <script src="./js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+<nav class="navbar wm-page-top-frame">
+  <div class="container-fluid wm-top-container">
+    
+    <div class="wm-top-tool pull-right wm-vcenter">
+      <form class="dropdown wm-vcentered" id="wm-search-form" action="./search.html">
+        
+        <button id="wm-search-show" class="btn btn-sm btn-default" type="submit"
+          ><i class="fa fa-search" aria-hidden="true"></i></button>
+
+        <div class="input-group input-group-sm wm-top-search">
+          <input type="text" name="q" class="form-control" id="mkdocs-search-query" placeholder="Search" autocomplete="off">
+          <span class="input-group-btn" role="search">
+            
+            <button class="btn btn-default dropdown-toggle collapse" data-toggle="dropdown" type="button"><span class="caret"></span></button>
+            <ul id="mkdocs-search-results" class="dropdown-menu dropdown-menu-right"></ul>
+            <button id="wm-search-go" class="btn btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+          </span>
+        </div>
+      </form>
+    </div>
+
+    
+    <div class="wm-top-tool wm-vcenter pull-right wm-small-left">
+      <button id="wm-toc-button" type="button" class="btn btn-sm btn-default wm-vcentered"><i class="fa fa-th-list" aria-hidden="true"></i></button>
+    </div>
+
+    
+    
+
+    
+    <a href="" class="wm-top-brand wm-top-link wm-vcenter">
+      
+      <div class="wm-top-title">
+        Documentation<br>
+        
+      </div>
+    </a>
+  </div>
+</nav>
+
+  <div id="main-content" class="wm-page-top-frame">
+    
+<nav class="wm-toc-pane">
+  
+  <ul class="wm-toctree">
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Interface doc</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="AVSControllerAPI/" class="wm-article-link wm-toc-text">AVSControllerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="AmazonPrimeAPI/" class="wm-article-link wm-toc-text">AmazonPrimeAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="ApplicationAPI/" class="wm-article-link wm-toc-text">ApplicationAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="BluetoothControlAPI/" class="wm-article-link wm-toc-text">BluetoothControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="BluetoothRemoteControlAPI/" class="wm-article-link wm-toc-text">BluetoothRemoteControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="BrowserAPI/" class="wm-article-link wm-toc-text">BrowserAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="BrowserResourcesAPI/" class="wm-article-link wm-toc-text">BrowserResourcesAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="BrowserSecurityAPI/" class="wm-article-link wm-toc-text">BrowserSecurityAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="ButlerAPI/" class="wm-article-link wm-toc-text">ButlerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="CobaltAPI/" class="wm-article-link wm-toc-text">CobaltAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="CompositorAPI/" class="wm-article-link wm-toc-text">CompositorAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="ConnectionPropertiesAPI/" class="wm-article-link wm-toc-text">ConnectionPropertiesAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="CustomerCareOperationsAPI/" class="wm-article-link wm-toc-text">CustomerCareOperationsAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DHCPServerAPI/" class="wm-article-link wm-toc-text">DHCPServerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DIALServerAPI/" class="wm-article-link wm-toc-text">DIALServerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DTVAPI/" class="wm-article-link wm-toc-text">DTVAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DeviceIdentificationAPI/" class="wm-article-link wm-toc-text">DeviceIdentificationAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DeviceInfoAPI/" class="wm-article-link wm-toc-text">DeviceInfoAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DisplayInfoAPI/" class="wm-article-link wm-toc-text">DisplayInfoAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DisplayPropertiesAPI/" class="wm-article-link wm-toc-text">DisplayPropertiesAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="FirmwareControlAPI/" class="wm-article-link wm-toc-text">FirmwareControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="GraphicsPropertiesAPI/" class="wm-article-link wm-toc-text">GraphicsPropertiesAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="HDRPropertiesAPI/" class="wm-article-link wm-toc-text">HDRPropertiesAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="IOConnectorAPI/" class="wm-article-link wm-toc-text">IOConnectorAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="IOControlAPI/" class="wm-article-link wm-toc-text">IOControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="InputSwitchAPI/" class="wm-article-link wm-toc-text">InputSwitchAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="LanguageTagAPI/" class="wm-article-link wm-toc-text">LanguageTagAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="LocationSyncAPI/" class="wm-article-link wm-toc-text">LocationSyncAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="MessengerAPI/" class="wm-article-link wm-toc-text">MessengerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="MonitorAPI/" class="wm-article-link wm-toc-text">MonitorAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="NetflixAPI/" class="wm-article-link wm-toc-text">NetflixAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="NetworkControlAPI/" class="wm-article-link wm-toc-text">NetworkControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="NetworkToolsAPI/" class="wm-article-link wm-toc-text">NetworkToolsAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="OpenCDMiAPI/" class="wm-article-link wm-toc-text">OpenCDMiAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="OutputAPI/" class="wm-article-link wm-toc-text">OutputAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PackagerAPI/" class="wm-article-link wm-toc-text">PackagerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PerformanceMonitorAPI/" class="wm-article-link wm-toc-text">PerformanceMonitorAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PlayerInfoAPI/" class="wm-article-link wm-toc-text">PlayerInfoAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PlayerPropertiesAPI/" class="wm-article-link wm-toc-text">PlayerPropertiesAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PowerAPI/" class="wm-article-link wm-toc-text">PowerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="ProcessContainers/" class="wm-article-link wm-toc-text">ProcessContainers</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="ProvisioningAPI/" class="wm-article-link wm-toc-text">ProvisioningAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="RemoteControlAPI/" class="wm-article-link wm-toc-text">RemoteControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SecureShellServerAPI/" class="wm-article-link wm-toc-text">SecureShellServerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SecurityAgentAPI/" class="wm-article-link wm-toc-text">SecurityAgentAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SparkAPI/" class="wm-article-link wm-toc-text">SparkAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="StateControlAPI/" class="wm-article-link wm-toc-text">StateControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="StreamerAPI/" class="wm-article-link wm-toc-text">StreamerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SubsystemControlAPI/" class="wm-article-link wm-toc-text">SubsystemControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SystemCommandsAPI/" class="wm-article-link wm-toc-text">SystemCommandsAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="TestControllerAPI/" class="wm-article-link wm-toc-text">TestControllerAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="TestUtilityAPI/" class="wm-article-link wm-toc-text">TestUtilityAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="TestUtilityPlugin/" class="wm-article-link wm-toc-text">TestUtilityPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="TimeSyncAPI/" class="wm-article-link wm-toc-text">TimeSyncAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="TraceControlAPI/" class="wm-article-link wm-toc-text">TraceControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="VolumeControlAPI/" class="wm-article-link wm-toc-text">VolumeControlAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="WebBrowserAPI/" class="wm-article-link wm-toc-text">WebBrowserAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="WebKitBrowserAPI/" class="wm-article-link wm-toc-text">WebKitBrowserAPI</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="WiFiControlAPI/" class="wm-article-link wm-toc-text">WiFiControlAPI</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Plugins doc</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="BluetoothControlPlugin/" class="wm-article-link wm-toc-text">BluetoothControlPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="BluetoothRemoteControlPlugin/" class="wm-article-link wm-toc-text">BluetoothRemoteControlPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="CobaltPlugin/" class="wm-article-link wm-toc-text">CobaltPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="CommanderPlugin/" class="wm-article-link wm-toc-text">CommanderPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="CompositorPlugin/" class="wm-article-link wm-toc-text">CompositorPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DHCPServerPlugin/" class="wm-article-link wm-toc-text">DHCPServerPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DIALServerPlugin/" class="wm-article-link wm-toc-text">DIALServerPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DTVPlugin/" class="wm-article-link wm-toc-text">DTVPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DictionaryPlugin/" class="wm-article-link wm-toc-text">DictionaryPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="DisplayInfoPlugin/" class="wm-article-link wm-toc-text">DisplayInfoPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="FileTransferPlugin/" class="wm-article-link wm-toc-text">FileTransferPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="FirmwareControlPlugin/" class="wm-article-link wm-toc-text">FirmwareControlPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="IOConnectorPlugin/" class="wm-article-link wm-toc-text">IOConnectorPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="NetworkControlPlugin/" class="wm-article-link wm-toc-text">NetworkControlPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PerformanceMonitorPlugin/" class="wm-article-link wm-toc-text">PerformanceMonitorPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PlayerInfoPlugin/" class="wm-article-link wm-toc-text">PlayerInfoPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="PowerPlugin/" class="wm-article-link wm-toc-text">PowerPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="ProcessMonitorPlugin/" class="wm-article-link wm-toc-text">ProcessMonitorPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="RemoteControlPlugin/" class="wm-article-link wm-toc-text">RemoteControlPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="ResourceMonitorPlugin/" class="wm-article-link wm-toc-text">ResourceMonitorPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SparkPlugin/" class="wm-article-link wm-toc-text">SparkPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="StreamerPlugin/" class="wm-article-link wm-toc-text">StreamerPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SyslogExportPlugin/" class="wm-article-link wm-toc-text">SyslogExportPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="SystemCommandsPlugin/" class="wm-article-link wm-toc-text">SystemCommandsPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="TestUtilityPlugin/" class="wm-article-link wm-toc-text">TestUtilityPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="TimeSyncPlugin/" class="wm-article-link wm-toc-text">TimeSyncPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="VolumeControlPlugin/" class="wm-article-link wm-toc-text">VolumeControlPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="WebPAPlugin/" class="wm-article-link wm-toc-text">WebPAPlugin</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="WifiControlPlugin/" class="wm-article-link wm-toc-text">WifiControlPlugin</a>
+</li>
+  </ul>
+</li>
+
+  </ul>
+</nav>
+
+    <div class="wm-content-pane">
+      <iframe class="wm-article" name="article"></iframe>
+    </div>
+  </div>
+
+<div class="container-fluid wm-page-content">
+  <a name="_top"></a>
+    
+
+    
+
+    <h1 id="welcome-to-documentation">Welcome to Documentation.</h1>
+<p>These documentation are automatically created using mkdocs</p>
+<h2 id="interface-documentation">Interface documentation</h2>
+<p>This section contains the documentation created from interfaces defined in <a href="https://github.com/rdkcentral/ThunderInterfaces">ThunderInterfaces</a></p>
+<h2 id="wpeframework-plugins-documentation">WPEFramework-plugins documentation</h2>
+<p>This section contains the documentation created from plugins defined in <a href="https://github.com/rdkcentral/ThunderNanoServices">ThunderNanoServices</a></p>
+
+  <br>
+    
+
+    <br>
+</div>
+
+<footer class="container-fluid wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>
+<!--
+MkDocs version : 1.2.3
+Build Date UTC : 2021-11-01 08:40:45.105256+00:00
+-->
